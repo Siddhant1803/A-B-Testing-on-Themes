@@ -15,4 +15,4 @@
 ### Purchases: Whether the user purchased the book (Yes/No).
 ### Added_to_Cart: Whether the user added books to the cart (Yes/No).
 
-### Your task is to identify which theme, Light Theme or Dark Theme, yields better user engagement, purchases and conversion rates. You need to determine if there is a statistically significant difference in the key metrics between the two themes.
+### [Your task is to identify which theme, Light Theme or Dark Theme, yields better user engagement, purchases and conversion rates. You need to determine if there is a statistically significant difference in the key metrics between the two themes.]
